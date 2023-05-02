@@ -20,3 +20,4 @@ service_principal {
   client_secret = "t0~8Q~VIMsign~AkygPTun0WeTL-xnm-HMn7ib8T"
 }
 }
+
